@@ -1,3 +1,15 @@
+commit 81f616cb34ac5716af79dc689ca922de0d5b5ef9
+Author: Gerbson Kauã <kauaxavi19@gmail.com>
+Date:   Tue May 5 19:02:47 2026 -0500
+
+    style: adiciona fonte ao bluestyle.css Refs 5#
+
+commit f1c5764494cfcaf2538f2337d72a156752c6d11d
+Author: Gerbson Kauã <kauaxavi19@gmail.com>
+Date:   Tue May 5 18:44:35 2026 -0500
+
+    style: adiciona fonte ao bluestyle.css Refs #5
+
 commit 8a4b3152b2b256fa834eaa63ac757e7fef49fb16
 Author: k4uaxavier <kauaxavi19@gmail.com>
 Date:   Mon May 4 22:51:01 2026 -0500
