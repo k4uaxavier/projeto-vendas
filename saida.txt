@@ -1,0 +1,29 @@
+commit 8a4b3152b2b256fa834eaa63ac757e7fef49fb16
+Author: k4uaxavier <kauaxavi19@gmail.com>
+Date:   Mon May 4 22:51:01 2026 -0500
+
+    "feat: inclui a lista de produtos na página Refs #04''
+
+commit 317fd4a538576f8f5d214565163546cef6527365
+Author: k4uaxavier <kauaxavi19@gmail.com>
+Date:   Mon May 4 22:44:59 2026 -0500
+
+    feat: cria um estilo azul para a index.html Refs #03
+
+commit 42625351fefc120819d950ab773df7759f545e4c
+Author: k4uaxavier <kauaxavi19@gmail.com>
+Date:   Mon May 4 22:35:40 2026 -0500
+
+    feat: cria pagina index com boas-vindas - Ref. #2
+
+commit e98f76c69cbc7bff376c3a7e143f36c4acd601a5
+Author: k4uaxavier <kauaxavi19@gmail.com>
+Date:   Mon May 4 22:23:44 2026 -0500
+
+    “chore: edita o readme – Ref. #1”
+
+commit 667f9632a8a92bdbf8b31b1b3287584d08302268
+Author: Gerbson kauã <164991899+k4uaxavier@users.noreply.github.com>
+Date:   Mon May 4 19:30:18 2026 -0500
+
+    Initial commit
